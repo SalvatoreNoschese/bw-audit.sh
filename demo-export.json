@@ -1,0 +1,262 @@
+{
+  "encrypted": false,
+  "folders": [],
+  "items": [
+    {
+      "id": "96adc222-db89-4832-aef5-ca392e382893",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "github.com",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "https://github.com"
+          }
+        ],
+        "username": "dev@example.com",
+        "password": "q7#Vw!pL2x$Rm9zK",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "a4d351f1-502f-4258-9cda-3542611c133b",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "old-forum.example",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "https://old-forum.example"
+          }
+        ],
+        "username": "darkfox",
+        "password": "dragon2010",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "e1bbeb94-7cbf-4cae-832e-7d8b0ac03d3d",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "shop-one.example",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "https://shop-one.example"
+          }
+        ],
+        "username": "jane@example.com",
+        "password": "Summer2019!",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "cda02d49-b658-4aa6-a084-723ee2d564ba",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "shop-two.example",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "https://shop-two.example"
+          }
+        ],
+        "username": "jane@example.com",
+        "password": "Summer2019!",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "1ae0d510-728c-489b-8620-fee41b1ce22f",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "news.example",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "https://news.example"
+          }
+        ],
+        "username": "jane",
+        "password": "Summer2019!",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "80a7a818-38e3-41f1-af38-b019e18f7670",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "mail.example",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "https://mail.example"
+          }
+        ],
+        "username": "jane@example.com",
+        "password": "Tq8!vRz#4mWp2LxS",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "61df5b0a-28e3-47d9-ab0e-edbc7ebff545",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "cloud.example",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "https://cloud.example"
+          }
+        ],
+        "username": "jane@example.com",
+        "password": "Tq8!vRz#4mWp2LxS",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "9b8e1ee0-3b6b-487e-b5ba-b75790704c2d",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "router.local",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "http://192.168.1.1"
+          }
+        ],
+        "username": "admin",
+        "password": "admin12",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "19add3a0-7ae1-4eaf-9536-e7e6cce56a3e",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "wiki.example",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "https://wiki.example"
+          }
+        ],
+        "username": "jane",
+        "password": "correcthorsebatt",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "550468de-ee17-4740-89dd-b4f1bae4090e",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "bank.example",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "https://bank.example"
+          }
+        ],
+        "username": "123456",
+        "password": "Lm3$Xc9!Rt7#Pq2vWz",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "7419fc99-3367-42b1-8d84-0ad09fb94d4d",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "=calc.example",
+      "notes": "Name starting with = : shows the CSV formula protection",
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "https://calc.example"
+          }
+        ],
+        "username": "+demo",
+        "password": "calc2024",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "5b2ba566-6900-4de1-8204-0e260fcac4c1",
+      "organizationId": null,
+      "folderId": null,
+      "type": 2,
+      "reprompt": 0,
+      "name": "Secure note (ignored)",
+      "notes": "Only login items are checked.",
+      "favorite": false,
+      "secureNote": {
+        "type": 0
+      },
+      "collectionIds": null
+    }
+  ]
+}

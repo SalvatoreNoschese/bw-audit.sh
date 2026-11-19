@@ -56,6 +56,18 @@ Tested on Linux and Termux. It should also work on WSL and on macOS with Homebre
 
 Optional: skip the language menu with `--lang en` or `--lang it`.
 
+## Try it without your vault
+
+The repository includes a fake export with made-up sites and weak, reused and breached passwords: you can see the script at work without touching your own vault.
+
+```bash
+curl -fsSL -O https://raw.githubusercontent.com/SalvatoreNoschese/bw-audit.sh/main/bw-audit.sh \
+           -O https://raw.githubusercontent.com/SalvatoreNoschese/bw-audit.sh/main/demo-export.json \
+  && bash bw-audit.sh demo-export.json
+```
+
+The demo passwords are common ones, so the breach check will find some of them, as it would in a real vault.
+
 ## How passwords are rated
 
 | Problem | Rule |
